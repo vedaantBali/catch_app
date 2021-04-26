@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901719926610",
+    "project_id": "catchapp-7274e",
+    "storage_bucket": "catchapp-7274e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901719926610:android:356e88d0c42e8ebe0bfc8b",
+        "android_client_info": {
+          "package_name": "com.vedaant.catch_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901719926610-i78vm5o0ei1894409c9pjnqbja2grid9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVILHNS8C4ZDwnC4kvtgONlD_vYvQTpFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901719926610-i78vm5o0ei1894409c9pjnqbja2grid9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
